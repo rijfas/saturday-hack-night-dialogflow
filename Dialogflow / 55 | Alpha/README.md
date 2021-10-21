@@ -196,7 +196,6 @@ Project Link: [https://github.com/rijfas/saturday-hack-night-dialogflow](https:/
 * [Rijfas](https://github.com/rijfas) [Core design and CLI]
 * [Nidha Shoukath](https://github.com/nidhashoukhath) [DialogFlow API Handling]
 * [Rasil](https://github.com/rasilkp/rasilkp) [Bot Avatar Design]
-
-
+------
 
 
